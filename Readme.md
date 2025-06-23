@@ -118,7 +118,7 @@ But I do have a blueprint:
 - 🪙 **Social Token Manifesto** – The how that can’t be bought  
 - 📚 **Community Constitution** (in progress)  
 - 🛡️ **Moral Moderation Protocol** – Protect users, not narratives  
-- ⚖️ **Governance Structure** – No kings, no whales, no gods — just the community
+- ⚖️ **Governance Structure** – No kings, no whales, no idol — just the community
 
 This isn’t some vaporware Web3 bullshit.  
 This is **a resistance movement written in markdown**.
@@ -180,7 +180,7 @@ There’s only one direction:
 ## ⚡ This Is Not a Platform.  
 **This Is an Online Rebellion — to Regain Our Digital Rights.**
 
-No permission. No middlemen. No gods. No kings.  
+No permission. No middlemen. No idol. No kings.  
 Just **us** — and the will to **build something real.**
 
 — **AntiDote**  
