@@ -1,5 +1,4 @@
-```markdown
-# ✊ The Rebellion Platform  
+# ✊ The Rebellion Platform
 > **You feel it, don’t you?**  
 > Something’s off. Something’s wrong.  
 > The internet doesn’t feel like home anymore.
@@ -72,7 +71,7 @@ You just didn’t know its name until now.
 ---
 
 *This is The Rebellion Platform.*  
-A place where we build what they said was impossible:  
+A place where we build what they said was impossible:
 - A space where you can speak without fear  
 - Create without being commodified  
 - Belong without being tracked  
@@ -138,7 +137,7 @@ Not investors. Not influencers.
 - Creators who want to own their work without playing the algorithm’s game  
 - Philosophers. Poets. Fighters. Weirdos.  
 - Anyone who ever whispered:  
-> “There has to be a better way.”
+  > “There has to be a better way.”
 
 I can’t pay you.  
 But if this works, **we all get paid — in truth, in sovereignty, in community.**
@@ -186,4 +185,3 @@ Just **us** — and the will to **build something real.**
 
 — **AntiDote**  
 *Anonymous. Angry. Alive.*
-```
