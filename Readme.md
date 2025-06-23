@@ -65,7 +65,7 @@
 <h2 id="-what-this-project-has">🧱 What This Project Has</h2>
 <p>I don’t have a launchpad. I don’t have a VC deck.<br>But I do have a blueprint:</p>
 <ul>
-<li>📜 <strong>[Philosophy of Design](Philosophy_of_Design.md)</strong> – The why that won’t be sold  </li>
+<li>📜 <strong><a href="Philosophy_of_Design.md">Philosophy of Design</a></strong> – The why that won’t be sold  </li>
 <li>🪙 <strong>Social Token Manifesto</strong> – The how that can’t be bought  </li>
 <li>📚 <strong>Community Constitution</strong> (in progress)  </li>
 <li>🛡️ <strong>Moral Moderation Protocol</strong> – Protect users, not narratives  </li>
