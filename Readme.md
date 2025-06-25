@@ -66,7 +66,7 @@
 <p>I don’t have a launchpad. I don’t have a VC deck.<br>But I do have a blueprint:</p>
 <ul>
 <li>📜 <strong><a href="Philosophy_of_Design.md">Philosophy of Design</a></strong> – The why that won’t be sold  </li>
-<li>🪙 <strong>Social Token Manifesto</strong> – The how that can’t be bought  </li>
+<li>🪙 <strong><a href="Social_Token_Manifesto.md">Social Token Manifesto</strong> – The how that can’t be bought  </li>
 <li>📚 <strong>Community Constitution</strong> (in progress)  </li>
 <li>🛡️ <strong>Moral Moderation Protocol</strong> – Protect users, not narratives  </li>
 <li>⚖️ <strong>Governance Structure</strong> – No kings, no whales, no idol — just the community</li>
